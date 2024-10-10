@@ -1,0 +1,62 @@
+1. FARE LA SPESA SEGUENDO UNA LISTA
+
+-PROBLEMA: Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
+	   Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca 
+	   in una lista, così una volta al supermercato, girando tra gli scaffali, posso 
+	   verificare di aver preso tutto e Ricky non rimane senza crocchette come 
+	   l’ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine 
+	   mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre 
+	   se non mi faccio prendere la mano con gli snack extra! 
+
+-SCOMPOSIZIONE DEL PROBLEMA:
+
+1) CAPIRE IL PROBELMA
+
+Cosa dobbiamo fare?
+Fare la spesa senza dimenticare nulla, rispettando il budjet
+
+2) IDENTIFIARE GLI ELEMENTI CHIAVE
+
+1. Lista della spesa -> .Prodotti da comprare?
+			.Prodotti nella lista per avere tutto sotto controllo
+
+2. Budjet -> .Denaro a disposizione?
+	     .Ci permette di sapere se possiamo permetterci tutto
+
+3. Prezzi prodotti -> .Quanto costa ogni prodotto della lista?
+
+4. Cupon -> Se possibile, applicarlo per avere uno sconto sul costo totale
+
+3) PRIORITA' E ORGANIZZAZIONE
+
+Cosa è più importante?
+Come posso organizzare i miei acquisti?
+
+1. Identificare i prodotti essenziali (es. crocchette per Ricky)
+Differenziare i prodotti tra ESSENZIALI e NON ESSENZIALI, così da vedere se possiamo 
+comprare tutto essendoci il vincolo del budjet
+
+2. Gestire il budjet
+Stimare il costo totale dei prodotti ESSENZIALI e se il budjet lo consente includere
+anche i prodotti NON ESSENZIALI, altrimenti evitare di includerli nella lista
+
+4) VERFICA FINALE
+
+1. Controllare la lista dei prodotti ESSENZIALI
+
+2. Verificare il budjet
+Confrontare il costo dei prodotti essenziali con il budjet per verificare se si rientra
+o si eccede in quest'ultimo
+
+3. Prodotti NON ESSENZIALI
+Se il costo totale dei prodotti essenziali rientra nel budjet, valutare l'aggiunta di 
+qualche articolo non essenziale, senza superare il budjet
+
+4. Applicare il cupon
+Prima di terminare, applicare il cupon per avere uno sconto sulla spesa totale (se disponibile)
+
+- RIEPILOGO 
+1. CAPIRE IL PROBELMA
+2. IDENTIFIARE GLI ELEMENTI CHIAVE
+3. PRIORITA' E ORGANIZZAZIONE
+4. VERFICA FINALE
